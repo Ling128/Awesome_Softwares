@@ -1,6 +1,6 @@
 # Awesome_Softwares
 
-A curated list of awesome software for Windows.
+A curated list of awesome softwares for Windows.
 
 ## Content
   
